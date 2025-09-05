@@ -1,5 +1,5 @@
 # Polytask
-# 👋 Hey, I'm Gcobane Maqoma  
+# 👋 Hey, I'm Ntsikelelo Gcobani Maqoma  
 
 🐍 **Python Explorer** | 💡 Problem Solver | 🚀 Future Software Dev  
 
